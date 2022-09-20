@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "799013dce665af07",
+    "type": "split",
+    "children": [
+      {
+        "id": "d273a7d0d50e50a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "calendar/2022-09-19.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ac118f930c9f050",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ae4d8da332dc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7aefd7d69a8ea7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96ec018eba0526f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "19.09",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.01218795776367
+  },
+  "right": {
+    "id": "1a474872037d409c",
+    "type": "split",
+    "children": [
+      {
+        "id": "089359cf7cb77fe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6051cd1384d55856",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calendar/2022-09-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dc86420bf8be277",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d273a7d0d50e50a2",
+  "lastOpenFiles": [
+    "3 курс/pari/dbs/19.09.22 SQL.md",
+    "3 курс/pari/dbs/12.09.22 Ключи и связи таблиц.md",
+    "calendar/2022-09-19.md",
+    "3 курс/pari/algorytmi/19.09.22.md",
+    "3 курс/pari/algorytmi/12.09.22 массивы и тд.md",
+    "3 курс/pari/csharp/Термины/Интерфейс.md",
+    "3 курс/pari/csharp/07.02.22/2 пара.md",
+    "3 курс/pari/csharp/07.02.22/3-4 пара.md",
+    "3 курс/pari/csharp/07.02.22/1 пара.md",
+    "3 курс/pari/csharp/14.09.22/1 пара.md"
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\bin\Debug\net6.0\code.exe
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\bin\Debug\net6.0\code.deps.json
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\bin\Debug\net6.0\code.dll
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\bin\Debug\net6.0\code.pdb
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.dll
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\refint\code.dll
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.pdb
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+C:\Users\Мелания\Documents\tea_dungeon\3 курс\pari\csharp\code\obj\Debug\net6.0\ref\code.dll
