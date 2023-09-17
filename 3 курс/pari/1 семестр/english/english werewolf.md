@@ -1,0 +1,6 @@
+Hello, my name is Jamie, I'm 20 years old, and I'm from Ohklahoma. Being a werewolf - or rather werecoyote, I can't define myself - is actualy beneficial in my neighbourhood.
+
+It all started with our family trip 3 years ago. Our car ran out of fuel and we were forced to stop in the middle of wasteland. My dad went to find gas station while my mom and I went for a walk. Then we saw a pack of 3 small coyotes, one of them was growling, suddenly jumped on me and then bit my arm but I was quick enough to punch it in the face. It went flying, and others ran away. It seemed to me that I saw some kind of moustache on the coyote, but didn't pay attention.
+
+Well then we got to the camp, it was full moon - what a situation, yeah?
+I turned a coyote bit my father a bit but then we figured out that now that my father and I are werecoyotes, we could be like attached to the leash and help our neighbours with hunting rats and other annoying things. It's not like I enjoy murdering small animals, but I am supposed to eat something when I'm in this form, right? All in all I'm not miserable, just sleepy once a month.

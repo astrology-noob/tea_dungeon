@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d273a7d0d50e50a2",
+        "id": "4795c5b704afd55c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "calendar/2022-09-19.md",
+            "file": "calendar/2022-10-07.md",
             "mode": "source",
             "source": false
           }
@@ -40,12 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "19.09",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.01218795776367
+    "width": 262.5136413574219
   },
   "right": {
     "id": "1a474872037d409c",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/2022-09-19.md",
+                "file": "calendar/2022-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d273a7d0d50e50a2",
+  "active": "4795c5b704afd55c",
   "lastOpenFiles": [
-    "3 курс/pari/dbs/19.09.22 SQL.md",
-    "3 курс/pari/dbs/12.09.22 Ключи и связи таблиц.md",
-    "calendar/2022-09-19.md",
-    "3 курс/pari/algorytmi/19.09.22.md",
-    "3 курс/pari/algorytmi/12.09.22 массивы и тд.md",
-    "3 курс/pari/csharp/Термины/Интерфейс.md",
-    "3 курс/pari/csharp/07.02.22/2 пара.md",
-    "3 курс/pari/csharp/07.02.22/3-4 пара.md",
-    "3 курс/pari/csharp/07.02.22/1 пара.md",
-    "3 курс/pari/csharp/14.09.22/1 пара.md"
+    "calendar/2022-10-12.md",
+    "3 курс/Диплом/Идеи для диплома.md",
+    "calendar/2022-10-07.md",
+    "calendar/2022-10-04.md",
+    "calendar/2022-10-05.md",
+    "3 курс/pari/тестирование/07.10.22.md",
+    "3 курс/pari/тестирование/план разработки.md",
+    "3 курс/pari/devops/16.09.22 cicd.md",
+    "3 курс/pari/devops/09.09.22 Современная инфраструктура.md",
+    "3 курс/pari/devops/12.09.22 Основы сетевого взаимодействия.md"
   ]
 }

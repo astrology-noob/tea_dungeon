@@ -1,8 +1,9 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 13,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Kanagawa",
+  "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Mono"
+  "textFontFamily": "Cascadia Mono",
+  "accentColor": "#3a1fc1"
 }
